@@ -1,4 +1,3 @@
-
 def open_file(i):
     if i == 1:
         with open('example.txt', 'r') as file:
